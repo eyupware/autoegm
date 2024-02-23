@@ -1,0 +1,2 @@
+# autoegm
+auto egm bot
