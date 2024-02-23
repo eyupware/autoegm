@@ -1,7 +1,7 @@
 # AUTOEGM
 
 Otomatik olarak 1hb5r gondermenizi saglayan bir bot
-Discord sunucusu: https://discord.gg/q5aK7txKth
+Discord sunucusu: https://discord.gg/zKWXtSRYNj
 Sxtın almak icin discord üzerinden ticket açınız
 
 * Fiyatlar:
